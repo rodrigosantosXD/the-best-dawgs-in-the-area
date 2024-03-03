@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "italic";
+    src: url(fonts/Brygada_1918.zip);
+}
+
+body {
+    background-image: url(https://media1.tenor.com/m/65zVq3UiFZkAAAAd/monkey-dance.gif);
+    padding: 20px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-style: italic;
+    font-size: 25px;
+}
+
+li {
+    font-size: 30px;
+    color: white;
+}
